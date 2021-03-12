@@ -1,0 +1,4 @@
+{
+    "port": 3012,
+    "mongoUri": "mongodb+srv://davyd:1q2w3e4r@cluster0.0jwiy.mongodb.net/mortgage_calculator"
+}
